@@ -2621,7 +2621,7 @@
 381704,__label__0,study interventions are Bevacizumab . locally recurrent or metastatic breast cancer previously untreated with chemotherapy for advanced disease;
 121772,__label__0,study interventions are Immunoglobulins . stage iiia breast cancer diagnosis and grade ii or greater peripheral vascular disease;
 3367,__label__0,study interventions are Ascorbic Acid . stage iii multiple myeloma diagnosis and previously untreated disease with poor prognosis meeting one of the following criteria;
-111875,__label__0,study interventions are Recombinant Vaccinia GM-CSF; RAC VAC GM-CSF (JX-594) . wilm tumor diagnosis and age between two and two1 years
+111875,__label__0,study interventions are Recombinant Vaccinia GM-CSF  .wilm tumor diagnosis and age between two and two1 years;
 336829,__label__0,study interventions are Camptothecin . stage ivb colon cancer diagnosis and absolute neutrophil count anc greater_than equal_than one five hundred mm three;
 428256,__label__0,study interventions are anti-CD19-CAR vector-transduced T cells . hematopoietic lymphoid cancer diagnosis and any relapse after prior autologous sct will make patient eligible regardless of other prior therapy;
 309229,__label__0,study interventions are Cyclosporins . recurrent childhood large cell lymphoma diagnosis and acute lymphocytic leukemia all;
@@ -3372,7 +3372,7 @@
 "297941,__label__0,""study interventions are Antibodies, Monoclonal . adult gliosarcoma diagnosis and female patients of child bearing potential must have negative pregnancy test""";
 76395,__label__0,study interventions are Fludarabine . childhood immunoblastic large cell lymphoma diagnosis and lymphoproliferative disease;
 360898,__label__0,study interventions are Cyclosporine . multiple myeloma and plasma cell neoplasm diagnosis and chronic myelogenous leukemia cml meeting one of the following criteria;
-301978,__label__0,study interventions are High Quality Volume CT Scan; MRI Scan . subjects undergoing radical external beam radiotherapy for prostate cancer
+301978,__label__0,study interventions are High Quality Volume CT Scan .subjects undergoing radical external beam radiotherapy for prostate cancer;
 324220,__label__0,study interventions are Placebo . colorectal cancer diagnosis and person who is able to fully communicate with the physician about his her fatigue status and is able to completely fill out the questionnaires;
 86278,__label__0,study interventions are temsirolimus . melanoma skin diagnosis and no more than one prior biological therapy regimen for advanced disease;
 391810,__label__0,study interventions are psychosocial assessment and care . hematopoietic lymphoid cancer diagnosis and life expectancy less_than twelve months;
