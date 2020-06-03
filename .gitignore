@@ -1,3 +1,7 @@
 /Dataset/labeledEligibilitySample1M.csv
 /Tables/docsTopicsLSA1200.csv
 /Tables/docsTopicsLSA1500.csv
+/Dataset/docsTopicsLSA1500.csv
+/Models/KNN(1-4)_GS_LSA_1500.pkl
+/Models/KNN(5-11)_GS_LSA_1500.pkl
+/Models/KNN(12-20)_GS_LSA_1500.pkl
